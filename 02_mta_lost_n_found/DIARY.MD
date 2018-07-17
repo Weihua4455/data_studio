@@ -1,6 +1,6 @@
 ## 07/17/18
 
-Dear Dairy,
+Dear Diary,
 
 It's 5:30 in the morning, and I am still awake.
 
@@ -10,9 +10,9 @@ No matter how easy the scraping part seems.
 
 Oh yes, and this project is about MTA's lost and found system.
 
-my data:
+**data**:
 http://advisory.mtanyct.info/LPUWebServices/CurrentLostProperty.aspx
 
-my mistakes:
+**mistakes**:
 1) wait until the last day
 2) spending too much time on trying to read xml -- for some reason I orginally wanted to transform it into `.json`
