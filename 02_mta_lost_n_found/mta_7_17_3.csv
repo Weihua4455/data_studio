@@ -1,0 +1,222 @@
+count,group,item
+98,Home Furnishings,Wall and Window Covering
+62,Home Furnishings,Ornaments
+163,Home Furnishings,Appliances
+1511,Home Furnishings,Linen
+43,Home Furnishings,Floor Covering
+652,Home Furnishings,All Other Furnishings
+767,Home Furnishings,Dishware
+15,Sports Equipment,Bats
+97,Sports Equipment,Scooter
+6,Sports Equipment,Golf Club
+316,Sports Equipment,Ball
+79,Sports Equipment,Skateboard
+26,Sports Equipment,Binocular
+2,Sports Equipment,Electric Motor Scooter
+486,Sports Equipment,Protective Gear
+10,Sports Equipment,Hockey Stick
+148,Sports Equipment,Sports Racket
+229,Sports Equipment,Bicycle
+3,Sports Equipment,Skis
+596,Sports Equipment,All Other sports equipment
+91,Medical Equipment & Medication,Insulin Pump
+6129,Medical Equipment & Medication,Medication
+102,Medical Equipment & Medication,X - Rays
+524,Medical Equipment & Medication,Other
+15,Medical Equipment & Medication,Walker
+19,Medical Equipment & Medication,Wheel Chair
+65,Medical Equipment & Medication,Blood Pressure Meter
+946,Medical Equipment & Medication,All Other Medical Equipment / Supplies
+3,Medical Equipment & Medication,Electric wheelchair/scooter
+668,Medical Equipment & Medication,Cane
+140,Medical Equipment & Medication,Diabetic Testing Equipment
+334,Medical Equipment & Medication,Glucose Meter
+1407,Tools,Tools
+82,Tools,Tool Box
+29,Tools,Tool Belt
+2524,Keys,Car
+13296,Keys,House
+653,Keys,Electronic key card
+3824,Keys,All Other keys
+195,Tickets,Transit Check
+604,Tickets,All Other Tickets
+462,Tickets,NJ Transit
+256,Tickets,Metro North Tickets
+791,Tickets,Lottery Tickets
+142,Tickets,Entertainment Tickets
+55151,Tickets,MTA Metrocard
+413,Tickets,LIRR Tickets
+123,Tickets,Airline
+46,Book,Photo album
+7035,Book,Paperback
+854,Book,Address book
+3925,Book,Soft cover
+954,Book,Other
+687,Book,Diary
+3792,Book,Hard Cover
+19,NYCT Equipment,Vest
+63,NYCT Equipment,Badge
+8,NYCT Equipment,Radio
+17,NYCT Equipment,Pass or Badge holder
+64,NYCT Equipment,All other NYCT Equiment
+426,NYCT Equipment,Epic pass
+3658,Currency,Gift Card 
+1177,Currency,Payroll check
+229,Currency,Money Order
+1707,Currency,Personal Check
+21,Currency,Travelers Checks 
+207,Currency,Other Currency
+44772,Currency,Cash
+2805,Currency,Foreign Currency
+111,Musical Instrument,Flute
+84,Musical Instrument,Musical instrument accessories
+98,Musical Instrument,Clarinet
+142,Musical Instrument,All Other Instruments
+60,Musical Instrument,Guitar
+114,Musical Instrument,Violin
+9,Musical Instrument,Harmonica
+41,Musical Instrument,Saxophone
+96,Musical Instrument,Trumpet
+3687,Jewelry,Fashion (Costume)
+10,Jewelry,Cuff Links
+525,Jewelry,Necklace
+1941,Jewelry,Watch
+1306,Jewelry,Ring
+834,Jewelry,Bracelet
+453,Jewelry,Earrings
+185,Jewelry,All other Jewelry
+2,Jewelry,Tie Clips
+978,Electronics,Digital Camera
+698,Electronics,USB Drive
+343,Electronics,Portable radio
+1275,Electronics,Computer 
+48,Electronics,GPS Navigation System
+158,Electronics,CD Player
+997,Electronics,Electronic accessories
+2342,Electronics,All other Electronics
+2255,Electronics,Digital media/MP3/4 Player
+34,Electronics,Record Player
+344,Electronics,Photo/Video Equipment
+10,Electronics,Television set
+96,Electronics,Body Activity Tracker
+1058,Electronics,Earphones Speakers
+49,Electronics,Computer External Hard Drive
+362,Electronics,Camera Accessories
+20,Electronics,Clock
+86,Electronics,Walkman
+146,Electronics,DVD Player
+308,Electronics,Camera
+583,Electronics,Calculator
+2,Electronics,Air conditioner
+32,Electronics,Translator
+453,Electronics,Computer Accessories
+18,Electronics,PDA
+1341,Electronics,Electronic Tablet
+838,Electronics,Electronic Reading Device
+619,Carry Bag / Luggage,Suitcase
+4369,Carry Bag / Luggage,Handbag
+4333,Carry Bag / Luggage,Shoulder bag
+746,Carry Bag / Luggage,Briefcase
+19290,Carry Bag / Luggage,Shopping bag
+8006,Carry Bag / Luggage,Tote bag
+186,Carry Bag / Luggage,Garment/suit bag
+1583,Carry Bag / Luggage,Duffle bag
+17018,Carry Bag / Luggage,Backpack
+7126,Carry Bag / Luggage,All other baggage
+278,Carry Bag / Luggage,Messenger bag
+540,Eye Wear,Eyeglass case without glasses
+9784,Eye Wear,Eye glasses
+338,Eye Wear,Other
+3600,Eye Wear,Sunglasses
+3940,Wallet/Purse,Pouch
+2357,Wallet/Purse,Wristlet
+11978,Wallet/Purse,Purse
+9732,Wallet/Purse,ID Holder
+587,Wallet/Purse,Business Card holder
+251,Wallet/Purse,Billfold
+675,Wallet/Purse,Handbag
+60,Wallet/Purse,Lanyard
+1449,Wallet/Purse,All Other Wallet / Purse
+244,Wallet/Purse,Fanny pack
+49498,Wallet/Purse,Wallet
+2596,Accessories,Scarf
+1441,Accessories,All Other Accessories
+5078,Accessories,Hat
+4303,Accessories,Gloves
+2326,Accessories,Make-up
+370,Accessories,Ties
+402,Accessories,Belt
+3717,Accessories,Umbrella
+4143,Clothing ,Jacket
+695,Clothing ,Coat 
+204,Clothing ,Nightwear
+592,Clothing ,Skirt
+1029,Clothing ,Blouse
+3311,Clothing ,Sweater
+7584,Clothing ,Pants/trousers/shorts
+104,Clothing ,Suit
+5008,Clothing ,Shirt
+3296,Clothing ,Under garment
+4774,Clothing ,All Other Clothing
+4203,Clothing ,T-shirt
+847,Clothing ,Dress
+89,Clothing ,Leather Jacket
+1677,Miscellaneous,Lunch box
+30,Miscellaneous,Blue print
+1206,Miscellaneous,Photo/Pictures
+166,Miscellaneous,Baby stroller/Carrier
+838,Miscellaneous,Portfolio
+33471,Miscellaneous,All Other Misc Items 
+706,Miscellaneous,Art and Crafts
+3037,Miscellaneous,Mail
+1019,Miscellaneous,Checkbook
+21,Miscellaneous,Tefillin/Phylacteries (Jewish)
+5709,Miscellaneous,Folder
+3426,Miscellaneous,Envelope
+4812,Miscellaneous,Stationary Supplies
+168,Cell Phone/Telephone/Communication Device,Walkie Talkie
+9,Cell Phone/Telephone/Communication Device,Answering Machine
+76,Cell Phone/Telephone/Communication Device,Other
+50891,Cell Phone/Telephone/Communication Device,Cell phone 
+83,Cell Phone/Telephone/Communication Device,Pager
+5390,Cell Phone/Telephone/Communication Device,Telephone Accessories
+186,Toys,Baby Toys
+815,Toys,All Other Toys
+105,Toys,Board Game
+236,Toys,Doll
+251,Toys,Cars/Trucks
+360,Toys,Stuffed Animals
+46299,Identification,Debit Card
+242,Identification,Badge
+3432,Identification,Passport
+8253,Identification,Social Security Card
+1358,Identification,Birth Certificate
+19347,Identification,School ID
+25014,Identification,Credit Card
+796,Identification,AAA Card
+1210,Identification,Resident Card
+9139,Identification,Employment ID
+18069,Identification,Identification Card
+7086,Identification,Library card
+11766,Identification,All Other Personal Identification
+11964,Identification,Membership card
+303,Identification,Military ID
+21561,Identification,Drivers License
+440,Identification,Registration Card
+13782,Identification,Benefit Card
+19030,Identification,Insurance Card
+27,Identification,Death Certificate
+488,Entertainment (Music/Movies/Games),Video Games System
+334,Entertainment (Music/Movies/Games),All Other Entertainment
+119,Entertainment (Music/Movies/Games),VHS Tape
+1198,Entertainment (Music/Movies/Games),DVD
+7,Entertainment (Music/Movies/Games),Blu-Ray
+388,Entertainment (Music/Movies/Games),Computer Games 
+985,Entertainment (Music/Movies/Games),Compact Disc
+2819,Footwear,Shoes
+986,Footwear,Boots
+723,Footwear,Slippers
+577,Footwear,Sandals
+37,Footwear,Galoshes
+181,Footwear,All Other Footwear
+2940,Footwear,Sneakers
