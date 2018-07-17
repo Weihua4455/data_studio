@@ -9,3 +9,10 @@ Let this be a reminder that I shall never wait until the day before proposal's d
 No matter how easy the scraping part seems.
 
 Oh yes, and this project is about MTA's lost and found system.
+
+my data:
+http://advisory.mtanyct.info/LPUWebServices/CurrentLostProperty.aspx
+
+my mistakes:
+1) wait until the last day
+2) spending too much time on trying to read xml -- for some reason I orginally wanted to transform it into `.json`
